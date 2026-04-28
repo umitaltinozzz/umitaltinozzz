@@ -4,11 +4,11 @@
 
 ### Computer Engineering Student | Software Developer | Product-Focused Builder
 
-I build SaaS products, dashboards, mobile apps, booking systems, QR-based workflows, and AI-assisted business tools.
+I build SaaS products, dashboards, mobile apps, data-driven tools, and AI-assisted business software.
 
 [![Email](https://img.shields.io/badge/Email-umitaltinozz%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umitaltinozz@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-umitaltinozzz-181717?style=for-the-badge&logo=github)](https://github.com/umitaltinozzz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/umitaltinozzz?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Public_Portfolio-Projects-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umitaltinozzz?tab=repositories)
 
 </div>
 
@@ -18,19 +18,21 @@ I build SaaS products, dashboards, mobile apps, booking systems, QR-based workfl
 
 I'm a Computer Engineering student focused on building real-world software products instead of only small tutorial projects.
 
-My main interest is turning product ideas into usable MVPs: dashboards, admin panels, mobile interfaces, REST API integrations, QR-based flows, business automation tools, and AI-supported features.
+My work is usually product-oriented: I define the problem, design the flow, build the interface, connect the backend, prepare deployment, and improve the project until it feels usable.
 
-I usually work close to the product side: defining the problem, designing the flow, building the interface, connecting the backend, preparing deployment, and improving the project until it feels usable.
+I am especially interested in SaaS dashboards, admin panels, mobile applications, GIS/data-driven tools, API integrations, and AI-assisted automation for business workflows.
+
+> Public repositories here mostly include completed portfolio projects and technical prototypes. Ongoing commercial work, active client projects, and projects still used by customers are kept private due to confidentiality and maintenance responsibilities.
 
 ## What I Build
 
-- SaaS dashboards and admin panels for real business workflows
-- Restaurant technology tools such as review management, QR menus, booking, and feedback systems
-- Mobile applications with React Native and Expo
-- API-driven web apps with React, Next.js, FastAPI, and PostgreSQL
-- QR-based operational systems for local businesses and hospitality workflows
-- AI-assisted tools for review analysis, automated replies, content generation, and dashboard insights
-- GIS and data-driven prototypes using open data and map interfaces
+- SaaS dashboards and admin panels for business workflows
+- Data-driven web apps with maps, search, filtering, and reporting
+- Cross-platform mobile apps with React Native and Expo
+- API-backed products with React, Next.js, FastAPI, Node.js, and PostgreSQL
+- CMS systems for local businesses, venues, and operational teams
+- AI-assisted tools for review analysis, content generation, and workflow automation
+- Open-data prototypes for urban, healthcare, and public-service use cases
 
 ## Tech Stack
 
@@ -41,99 +43,46 @@ I usually work close to the product side: defining the problem, designing the fl
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-111111?style=flat-square&logo=shadcnui&logoColor=white)
 
 ### Mobile
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![NativeWind](https://img.shields.io/badge/NativeWind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Backend & Database
+### Backend, Database & Tools
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-### Tools & Deployment
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-## Product Areas I Care About
+## Pinned Projects
 
-| Area | What I Build |
-| --- | --- |
-| SaaS Products | MVPs, dashboards, admin panels, subscriptions-ready product flows |
-| Restaurant Tech | Review systems, QR flows, booking tools, customer feedback automation |
-| Mobile Apps | Expo and React Native apps with practical business use cases |
-| AI Automation | AI replies, review analysis, content generation, operational insights |
-| Data & GIS | Map-based interfaces, open-data prototypes, risk visualization |
-| Local Business Tools | CMS panels, booking systems, QR pages, simple operational software |
+### [Earthquake Road Risk Model](https://github.com/umitaltinozzz/earthquake-road-risk-model)
 
-## Featured Projects
+Prototype for modeling earthquake-driven building collapse risk and likely road blockages in Istanbul using open data.
 
-### [Mutfak Software](https://github.com/umitaltinozzz/mutfak-software)
+**Why it matters:** After a major earthquake, collapsed buildings may block roads and affect emergency access. This project explores a map-based way to estimate building risk, debris spread, and road blockage scenarios at prototype level.
 
-A restaurant-focused SaaS platform for review management, customer feedback workflows, AI-assisted replies, and business dashboards.
-
-**Why it matters:** Restaurants need a way to collect private feedback before negative experiences turn into public reviews. This project focuses on turning that business problem into a working SaaS-style product.
-
-**Tech:** Next.js, React, TypeScript, Prisma, PostgreSQL, OpenAI API
+**Tech:** React, TypeScript, FastAPI, Leaflet, SQLite
 
 **Key Features:**
-- Restaurant owner dashboard
-- Customer feedback and review management flows
-- AI-assisted reply generation
-- SaaS-style product architecture
-- Admin-oriented business workflow
-
----
-
-### [Mini Booking](https://github.com/umitaltinozzz/mini-booking)
-
-A modern appointment and booking platform built as a polished SaaS-style product experience.
-
-**Why it matters:** Booking flows are common in real businesses, but they need to be simple, responsive, and trustworthy. This project focuses on user experience, scheduling, and clean product presentation.
-
-**Tech:** Next.js, React, TypeScript, Tailwind CSS, next-intl, Three.js
-
-**Key Features:**
-- Appointment scheduling flow
-- Multi-language structure
-- Responsive product interface
-- Modern frontend experience
-- SaaS-style landing and booking pages
-
----
-
-### [Valet Management](https://github.com/umitaltinozzz/valet-management)
-
-A QR-based valet and hospitality management system for vehicle handoff workflows and operational tracking.
-
-**Why it matters:** Hospitality operations often rely on manual tracking. This project models a more structured QR-based process with dashboards and API-backed management.
-
-**Tech:** React, TypeScript, FastAPI, PostgreSQL, Docker
-
-**Key Features:**
-- QR-code based operational flow
-- Vehicle and ticket tracking concept
-- Admin dashboard structure
-- API-backed management workflow
-- PWA-ready frontend approach
+- Building risk scoring prototype
+- Debris spread estimation
+- Road blockage and route-risk visualization
+- GIS-based interface with open map data
+- Urban resilience and public-safety oriented concept
 
 ---
 
 ### [Live Music Venue CMS](https://github.com/umitaltinozzz/live-music-venue-cms)
 
-A CMS for live music venues to manage events, artists, and website content from an admin panel.
+CMS-driven live music venue website with event, artist, media, and message management.
 
-**Why it matters:** Venues need to update events and artists quickly without touching code. This project focuses on a real CMS workflow for local entertainment businesses.
+**Why it matters:** Event venues need to update programs, artists, and media without touching code. This project models a real admin workflow for content-heavy local businesses.
 
 **Tech:** React, TypeScript, FastAPI, PostgreSQL, Docker, Cloudflare R2
 
@@ -141,50 +90,53 @@ A CMS for live music venues to manage events, artists, and website content from 
 - Event and artist management
 - CMS-style admin panel
 - Media storage integration
-- Venue-focused content model
-- Full-stack product structure
+- Message/contact management
+- Full-stack venue content workflow
 
 ---
 
-### [Prompt Vault](https://github.com/umitaltinozzz/prompt-vault)
+### [Twitter Archive](https://github.com/umitaltinozzz/twitter-archive)
 
-A self-hosted prompt and content management tool for organizing reusable prompts, imported content, and AI workflow assets.
+Self-hosted Twitter bookmarks and likes archive with full-text search and media download.
 
-**Why it matters:** AI workflows become messy without structure. This project explores how prompts and AI-related content can be stored, categorized, and reused.
+**Why it matters:** Social platforms are not reliable long-term knowledge bases. This project focuses on owning saved content, making it searchable, and keeping media accessible locally.
 
-**Tech:** Next.js, TypeScript, Prisma, PostgreSQL, Docker
+**Tech:** Next.js, TypeScript, SQLite, Prisma
 
 **Key Features:**
-- Prompt organization workflow
-- Self-hosted product setup
-- Database-backed content management
-- Docker-ready architecture
+- Self-hosted archive structure
+- Full-text search
+- Bookmarks and likes organization
+- Media download workflow
+- Local-first personal knowledge management approach
 
 ---
 
-### [Earthquake Road Risk Model](https://github.com/umitaltinozzz/earthquake-road-risk-model)
+### [UISBS](https://github.com/umitaltinozzz/uisbs)
 
-A GIS prototype for estimating earthquake-driven building collapse risk and likely road blockages in Istanbul using open-source urban data.
+National drug inventory and pharmacy locator for Turkey with geospatial search and healthcare-oriented inventory workflows.
 
-**Why it matters:** After a major earthquake, collapsed buildings may block roads and affect emergency access. This project explores a map-based way to model that risk at prototype level.
+**Why it matters:** Healthcare inventory and pharmacy discovery require accurate location-aware data. This project explores inventory tracking, geospatial querying, and pharmacy search in a public-service style system.
 
-**Tech:** React, TypeScript, FastAPI, Leaflet, SQLite
+**Tech:** FastAPI, React, PostgreSQL, PostGIS, Redis, Docker
 
 **Key Features:**
-- Building risk scoring prototype
-- Debris spread estimation
-- Route and road blockage risk visualization
-- Open-data urban resilience concept
+- Drug inventory management concept
+- Pharmacy locator with geospatial search
+- PostGIS-backed location queries
+- API-first backend structure
+- Healthcare and public-service oriented product design
 
-## More Projects
+## More Public Work
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| [DJ Management](https://github.com/umitaltinozzz/dj-management) | Portfolio and management interface concept for DJs and music professionals | React, TypeScript, Tailwind CSS |
+| [Mini Booking](https://github.com/umitaltinozzz/mini-booking) | Modern booking and appointment platform with a SaaS-style product experience | Next.js, React, TypeScript |
+| [Mutfak Software](https://github.com/umitaltinozzz/mutfak-software) | Restaurant-focused review and reputation management SaaS concept | Next.js, Prisma, PostgreSQL, OpenAI API |
+| [Valet Management](https://github.com/umitaltinozzz/valet-management) | QR-based valet and hospitality management system | React, FastAPI, PostgreSQL |
+| [Prompt Vault](https://github.com/umitaltinozzz/prompt-vault) | Self-hosted prompt and AI workflow asset manager | Next.js, Prisma, PostgreSQL |
 | [Venue Picker](https://github.com/umitaltinozzz/venue-picker) | Mobile-first venue discovery and decision-making app | React Native, Expo, Go, Supabase |
-| [Google Places Search](https://github.com/umitaltinozzz/google-places-search) | Desktop data collection tool for business search and CSV exports | Python, Tkinter, Google Places API |
-| [Work Hour Cost Calculator](https://github.com/umitaltinozzz/work-hour-cost-calculator) | Mobile calculator for work-hour cost and productivity calculations | React Native, Expo, NativeWind |
-| [UISBS](https://github.com/umitaltinozzz/uisbs) | Inventory and operational system for healthcare/pharmacy-like workflows | FastAPI, React, PostgreSQL, Docker |
+| [Google Places Search](https://github.com/umitaltinozzz/google-places-search) | Desktop business-search and CSV export tool | Python, Tkinter, Google Places API |
 
 ## Currently Improving
 
@@ -206,6 +158,7 @@ I'm especially interested in roles or internships involving:
 - Full-stack product development
 - SaaS dashboards and admin panels
 - API integrations and backend services
+- Data-driven products and map-based interfaces
 - AI-assisted business tools
 
 ## GitHub Stats
