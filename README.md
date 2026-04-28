@@ -138,28 +138,23 @@ National drug inventory and pharmacy locator for Turkey with geospatial search a
 | [Venue Picker](https://github.com/umitaltinozzz/venue-picker) | Mobile-first venue discovery and decision-making app | React Native, Expo, Go, Supabase |
 | [Google Places Search](https://github.com/umitaltinozzz/google-places-search) | Desktop business-search and CSV export tool | Python, Tkinter, Google Places API |
 
-## Currently Improving
+## Engineering Focus
 
-- Advanced TypeScript and cleaner frontend architecture
-- React Native application structure
-- Backend API design and PostgreSQL modeling
-- SaaS product architecture and deployment workflows
-- AI-powered business automation features
-- Better testing, documentation, and production-readiness habits
+I focus on building product-ready software with clear user flows, maintainable interfaces, and practical backend structures.
 
-## What I'm Looking For
+My current engineering direction is centered around:
 
-I'm looking for opportunities where I can grow as a software developer while contributing to real products.
+- Designing SaaS-style dashboards and admin panels with clean information architecture
+- Building mobile-first experiences for real operational workflows
+- Creating API-backed products with reliable data models and clear service boundaries
+- Improving deployment, documentation, and production-readiness across projects
+- Using AI features where they create practical value, such as review analysis, reply generation, and workflow automation
 
-I'm especially interested in roles or internships involving:
+## Product Mindset
 
-- Frontend development with React or Next.js
-- Mobile development with React Native
-- Full-stack product development
-- SaaS dashboards and admin panels
-- API integrations and backend services
-- Data-driven products and map-based interfaces
-- AI-assisted business tools
+I care about the full product path: problem definition, user flow, interface design, backend logic, deployment, and iteration.
+
+Most of my projects start from a real business or operational problem. The goal is not only to build working code, but to shape it into something that can be used, tested, maintained, and later expanded into a real product.
 
 ## GitHub Stats
 
