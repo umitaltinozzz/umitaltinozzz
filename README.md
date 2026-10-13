@@ -101,7 +101,7 @@ Products I built and run in production:
 | --- | --- | --- |
 | [Elphisia](https://www.elphisia.com/) | Digital studio site — memorable, emotional websites and digital solutions | Railway, Cloudflare |
 | [LUVAS](https://luvas.com.tr/) | E-commerce for a premium car air freshener brand: collections, product pages, store locator | Next.js, Railway, Cloudflare |
-| [Mutfak Yazılım](https://mutfakyazilim.com.tr/) | Restaurant review and reputation management SaaS ([source](https://github.com/umitaltinozzz/mutfak-software)) | Next.js, Prisma, PostgreSQL, OpenAI API |
+| [Mutfak Yazılım](https://www.mutfakyazilim.com/) | AI-assisted software for restaurants and real estate: digital QR menu, restaurant feedback system ([source](https://github.com/umitaltinozzz/mutfak-software)), digital twin real-estate platform | Railway |
 
 ## Pinned Projects
 
