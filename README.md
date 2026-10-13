@@ -24,6 +24,14 @@ I am especially interested in SaaS dashboards, admin panels, mobile applications
 
 > Public repositories here mostly include completed portfolio projects and technical prototypes. Ongoing commercial work, active client projects, and projects still used by customers are kept private due to confidentiality and maintenance responsibilities.
 
+## Companies
+
+Companies I founded and run:
+
+- **[Elphisia](https://www.elphisia.com/)** — Digital studio creating memorable websites and digital solutions.
+- **[LUVAS](https://luvas.com.tr/)** — Premium car air freshener brand.
+- **[Mutfak Yazılım](https://www.mutfakyazilim.com/)** — AI-assisted software for restaurants and real estate.
+
 ## What I Build
 
 - SaaS dashboards and admin panels for business workflows
@@ -93,16 +101,6 @@ I am especially interested in SaaS dashboards, admin panels, mobile applications
 - API integrations, authentication flows, file/media storage, and deployment setup
 - AI-assisted review analysis, response generation, content workflows, and dashboard insights
 - GIS/map-based interfaces, geospatial search, and open-data prototypes
-## Live Products
-
-Products I built and run in production:
-
-| Product | What it is | Stack |
-| --- | --- | --- |
-| [Elphisia](https://www.elphisia.com/) | Digital studio site — memorable, emotional websites and digital solutions | Railway, Cloudflare |
-| [LUVAS](https://luvas.com.tr/) | E-commerce for a premium car air freshener brand: collections, product pages, store locator | Next.js, Railway, Cloudflare |
-| [Mutfak Yazılım](https://www.mutfakyazilim.com/) | AI-assisted software for restaurants and real estate: digital QR menu, restaurant feedback system ([source](https://github.com/umitaltinozzz/mutfak-software)), digital twin real-estate platform | Railway |
-
 ## Pinned Projects
 
 ### [Earthquake Road Risk Model](https://github.com/umitaltinozzz/earthquake-road-risk-model)
