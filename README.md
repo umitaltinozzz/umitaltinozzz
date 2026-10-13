@@ -93,6 +93,16 @@ I am especially interested in SaaS dashboards, admin panels, mobile applications
 - API integrations, authentication flows, file/media storage, and deployment setup
 - AI-assisted review analysis, response generation, content workflows, and dashboard insights
 - GIS/map-based interfaces, geospatial search, and open-data prototypes
+## Live Products
+
+Products I built and run in production:
+
+| Product | What it is | Stack |
+| --- | --- | --- |
+| [Elphisia](https://www.elphisia.com/) | Digital studio site — memorable, emotional websites and digital solutions | Railway, Cloudflare |
+| [LUVAS](https://luvas.com.tr/) | E-commerce for a premium car air freshener brand: collections, product pages, store locator | Next.js, Railway, Cloudflare |
+| [Mutfak Yazılım](https://mutfakyazilim.com.tr/) | Restaurant review and reputation management SaaS ([source](https://github.com/umitaltinozzz/mutfak-software)) | Next.js, Prisma, PostgreSQL, OpenAI API |
+
 ## Pinned Projects
 
 ### [Earthquake Road Risk Model](https://github.com/umitaltinozzz/earthquake-road-risk-model)
